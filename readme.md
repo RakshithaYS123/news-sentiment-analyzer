@@ -110,7 +110,7 @@ Analyzes news articles for a specified company.
 
 ## Deployment
 
-The application is deployed on Hugging Face Spaces and can be accessed at: [https://huggingface.co/spaces/yourusername/news-summarizer](https://huggingface.co/spaces/yourusername/news-summarizer)
+The application is deployed on Hugging Face Spaces and can be accessed at: [https://huggingface.co/spaces/yourusername/news-summarizer]([https://huggingface.co/spaces/yourusername/news-summarizer](https://huggingface.co/spaces/raksh0115/news-sentiment-analyzer))
 
 ## Future Improvements
 
