@@ -27,7 +27,7 @@ project/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/news-summarizer.git
+   git clone https://github.com/RakshithaYS123/news-summarizer.git
    cd news-summarizer
    ```
 
